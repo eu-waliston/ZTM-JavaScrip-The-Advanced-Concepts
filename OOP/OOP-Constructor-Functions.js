@@ -9,3 +9,5 @@ Elf.prototype.attack = function() {
 
 const peter = new Elf("Peter", "Fire Bolt");
 console.log(peter.attack());
+console.log(peter.name);
+console.log(peter.weapon);
