@@ -24,4 +24,4 @@ class HashTable {
 }
 
 const myHash = new HashTable(50);
-myHash._hash("asdsad");
+
